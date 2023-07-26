@@ -17,3 +17,8 @@ Replace YOUR_API_KEY, YOUR_API_SECRET_KEY, YOUR_ACCESS_TOKEN, and YOUR_ACCESS_TO
 
 Run the Bot:
 python twitbot.py
+
+
+If everything is set up correctly, the bot should post the tweet specified in the tweet_text variable.
+
+Remember, always be cautious and use your Twitter bot responsibly, following Twitter's guidelines and policies. Avoid aggressive automation or spam-like behavior to prevent your account from being suspended. Twitter has specific rules about bot usage, so be sure to review their developer guidelines.
